@@ -1,0 +1,7 @@
+python-dotenv
+sendgrid
+pika
+pandas
+xlsxwriter
+aio-pika
+certifi
